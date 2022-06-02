@@ -1,0 +1,19 @@
+{
+  "name": "16-cristobal-salgado-bot-scrapper-contrataciones-mercadopublico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miguel Alvarez <miguel.fullstack@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "exceljs": "^4.3.0",
+    "mongoose": "^6.3.4",
+    "puppeteer": "^14.1.1"
+  }
+}
